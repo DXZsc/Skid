@@ -8,6 +8,16 @@
 -- DXZONTOP
 -- Partner Guts
 -- fuck you Vascal niggur
+-- DXZ
+-- SKID
+-- LOCK
+-- CAMLOCK
+-- LEAKED SOURCE
+-- ENCRYPTED FILES
+-- VASCAL ITS SHIT
+-- VASCAL ARE DICK
+-- ROBLOX
+-- VARDYSCRIPTS YT CHANNEL
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
 local LocalPlayer = Players.LocalPlayer
@@ -100,7 +110,7 @@ Logo.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Logo.BorderSizePixel = 0
 Logo.Position = UDim2.new(0.326732665, 0, 0, 0)
 Logo.Size = UDim2.new(0, 70, 0, 70)
-Logo.Image = "rbxassetid://4483345998"
+Logo.Image = "rbxassetid://131371141564352"
 Logo.ImageTransparency = 0.200
 
 TextButton.Parent = Frame
