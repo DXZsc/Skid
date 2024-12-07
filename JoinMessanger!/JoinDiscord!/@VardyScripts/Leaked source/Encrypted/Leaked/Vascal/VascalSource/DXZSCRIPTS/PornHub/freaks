@@ -18,6 +18,10 @@
 -- VASCAL ARE DICK
 -- ROBLOX
 -- VARDYSCRIPTS YT CHANNEL
+-- SUBSCRIBE
+-- SUBSCRIBE
+-- HELL YEAH
+-- DA STRIKE
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
 local LocalPlayer = Players.LocalPlayer
@@ -84,7 +88,7 @@ Vascal.Name = "Freaks"
 Vascal.Parent = game.CoreGui
 Vascal.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
-Frame.Parent = Vascal
+Frame.Parent = Freaks
 Frame.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 Frame.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Frame.BorderSizePixel = 0
@@ -110,7 +114,7 @@ Logo.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Logo.BorderSizePixel = 0
 Logo.Position = UDim2.new(0.326732665, 0, 0, 0)
 Logo.Size = UDim2.new(0, 70, 0, 70)
-Logo.Image = "rbxassetid://131371141564352"
+Logo.Image = "rbxassetid://139464922428122"
 Logo.ImageTransparency = 0.200
 
 TextButton.Parent = Frame
@@ -121,7 +125,7 @@ TextButton.BorderSizePixel = 0
 TextButton.Position = UDim2.new(0.0792079195, 0, 0.18571429, 0)
 TextButton.Size = UDim2.new(0, 170, 0, 44)
 TextButton.Font = Enum.Font.SourceSansSemibold
-TextButton.Text = "Toggle Lockøæ"
+TextButton.Text = "Toggle Lock øæ"
 TextButton.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextButton.TextScaled = true
 TextButton.TextSize = 11.000
@@ -131,11 +135,11 @@ TextButton.MouseButton1Click:Connect(
     function()
         state = not state
         if not state then
-            TextButton.Text = "Searching.."
+            TextButton.Text = "Searching.. øæ"
             CamlockState = true
             enemy = FindNearestEnemy()
         else
-            TextButton.Text = "Spared.."            
+            TextButton.Text = "Spared.. øæ"            
 CamlockState = false
             enemy = nil
         end
